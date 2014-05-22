@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define BUFFER_SIZE 100
+#define BUFFER_SIZE 102
 
 int main(){
 	char ch[BUFFER_SIZE]= "Kansai University";
